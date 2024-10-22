@@ -13,10 +13,10 @@ public class ImportCommandParser implements Parser<ImportCommand> {
     public static final String OVERRIDE_FLAG = "--override";
 
     /**
-     * Placeholder
-     * @param args
-     * @return
-     * @throws ParseException
+     * Parses the given {@code String} of arguments in the context of the ImportCommand
+     * @param args the arguments to parse
+     * @return ImportCommand
+     * @throws ParseException to show error
      */
     @Override
     public ImportCommand parse(String args) throws ParseException {
