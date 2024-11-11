@@ -1,0 +1,31 @@
+{
+  "persons" : [ {
+    "name" : "Jane Smith",
+    "phone" : "87654321",
+    "email" : "janes@example.com",
+    "address" : "456 Elm St",
+    "remark" : "",
+    "tags" : [ "colleague" ]
+  }, {
+    "name" : "Alice Johnson",
+    "phone" : "86543210",
+    "email" : "alicej@example.com",
+    "address" : "789 Oak St",
+    "remark" : "",
+    "tags" : [ "family" ]
+  }, {
+    "name" : "Betsy",
+    "phone" : "91231321",
+    "email" : "betsy198@gmail.com",
+    "address" : "Woodlands Street 40",
+    "remark" : "10 year relationship",
+    "tags" : [ "friend" ]
+  }, {
+    "name" : "Bob",
+    "phone" : "",
+    "email" : "",
+    "address" : "",
+    "remark" : "",
+    "tags" : [ ]
+  } ]
+}
